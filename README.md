@@ -1,6 +1,10 @@
-# public-cctv-maps
-cttv maps by python &amp; api open source 
+# Public cctv maps
+```cttv maps by python & api open source, for education.```
 
-# RUN
-[1] python cctv_scraper.py
-[2] python3 cctv_scraper.py
+# Run in termux or kali linux
+```
+$ cd python cctv_scraper.py
+$ ls
+$ python cctv_scraper.py
+$ python3 cctv_scraper.py
+```
